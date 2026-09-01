@@ -1,2 +1,1 @@
-test 1
-lập trình hướng đối tượng
+cấu trúc dữ liệu và giải thuật
